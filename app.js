@@ -253,8 +253,8 @@ app.get("*", function(req,res) {
   res.send("Error, page not found");
 })
 
-http.listen(3024 ,function(){
-  console.log('listening on *:3024');
+http.listen(8080 ,function(){
+  console.log('listening on *:8080');
 });
 
 ///////////////////////////////////////////////////Functions/////////////////////////////////////////
