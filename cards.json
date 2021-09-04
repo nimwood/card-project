@@ -506,7 +506,7 @@
             "hasBlank": "FALSE"
         },
         {
-            "text": "Lives in a castles",
+            "text": "Lives in a castle",
             "type": "white",
             "hasBlank": "FALSE"
         },
@@ -651,7 +651,7 @@
             "hasBlank": "FALSE"
         },
         {
-            "text": "Owns a unicorm",
+            "text": "Owns a unicorn",
             "type": "white",
             "hasBlank": "FALSE"
         },
@@ -1951,6 +1951,21 @@
             "text": "Can only speak in lines from _____",
             "type": "red",
             "hasBlank": "TRUE"
+        },
+        {
+            "text": "Calls themself in the third person ",
+            "type": "red",
+            "hasBlank": "FALSE"
+        },
+        {
+            "text": "Every time they take a shot they go nya ",
+            "type": "red",
+            "hasBlank": "FALSE"
+        },
+        {
+            "text": "Their line of sight is always at your armpit ",
+            "type": "red",
+            "hasBlank": "FALSE"
         }
     ]
 }
